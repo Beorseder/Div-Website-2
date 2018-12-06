@@ -53,3 +53,15 @@
 #headerSecond {
     margin: 0px;
 }
+
+#ouroborosPicture {
+    display: block;
+    width: 65%;
+    height: auto;
+    margin: 0px auto;
+}
+
+#attribution {
+    margin: 0px;
+    text-align: center;
+}
